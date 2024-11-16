@@ -31,7 +31,7 @@ The dataset is organized as a dictionary where the keys represent image file pat
         "coarse-grained": "Morning routine in a residential setting, involving smartphone usage and preparing smoked salmon in the kitchen.",
         "Experience-summary": "The individual started their morning by handling their phone and preparing smoked salmon in a well-lit kitchen."
     }
-}
+}```
 
 ## Download Link
 https://drive.google.com/file/d/1bQjHri5YNmx4Z7n0CxmuZX5rrBLCEx1X/view?usp=sharing
